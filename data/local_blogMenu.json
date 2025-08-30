@@ -1,14 +1,33 @@
 [
-    {
-        "name": "about.md",
-        "download_url": "/menu/about.md"
-    },
-    {
-        "name": "blog.md",
-        "download_url": "/menu/blog.md"
-    },
-    {
-        "name": "contact.md",
-        "download_url": "/menu/contact.md"
-    }
+  {
+    "name": "about.md",
+    "download_url": "/menu/about.md",
+    "link": null
+  },
+  {
+    "name": "blog.md",
+    "download_url": "/menu/blog.md",
+    "link": null
+  },
+  {
+    "name": "contact.md",
+    "download_url": "/menu/contact.md",
+    "link": null
+  },
+  {
+    "name": "GitHub",
+    "download_url": null,
+    "link": "https://github.com/yjshin-cloud/TIL"
+  },
+  {
+    "name": "Velog",
+    "download_url": null,
+    "link": "https://velog.io/@yjshin"
+  },
+  {
+    "name": "Tistory",
+    "download_url": null,
+    "link": "https://deeprun.tistory.com/category/Cloud%20Engineering%20Bootcamp"
+  }
+]
 ]
